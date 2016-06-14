@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/intelegain/kapil.png?label=ready&title=Ready)](https://waffle.io/intelegain/kapil)
 #  CRM Launcher
 
 
